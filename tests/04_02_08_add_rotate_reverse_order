@@ -1,0 +1,63 @@
+a
+a
+c
+Shrey
+c
+Gab
+p
+r a red vegetarian
+r b red chicken
+r c red tempura
+t
+m -2
+t
+s
+t
+m 4
+t
+r d red seafood
+r e blue seafood
+r f green chicken
+t
+m 5
+t
+o Shrey e
+o Gab b
+p
+t
+m -1
+t
+r g orange tempura
+r h blue vegetarian
+t
+o Shrey f
+p
+t
+r i purple tempura
+t
+m 3
+t
+s
+t
+o Gab a
+p
+t
+r j green seafood
+r k purple seafood
+t
+s
+t
+o Shrey j
+p
+t
+r l orange chicken
+r m red vegetarian
+t
+p
+b
+Shrey
+b
+Gab
+p
+t
+q

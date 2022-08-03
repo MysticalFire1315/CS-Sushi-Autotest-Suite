@@ -1,0 +1,28 @@
+r a red vegetarian
+r b red chicken
+r c red tempura
+r d red seafood
+r e blue seafood
+r f green chicken
+t
+m 5
+t
+m -1
+t
+r g orange tempura
+r h blue vegetarian
+r i purple tempura
+t
+m 3
+t
+s
+t
+r j green seafood
+r k purple seafood
+t
+s
+t
+r l orange chicken
+r m red vegetarian
+t
+q

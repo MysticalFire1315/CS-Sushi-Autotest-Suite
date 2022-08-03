@@ -1,0 +1,15 @@
+r a red vegetarian
+r b red chicken
+r c red seafood
+t
+m 3
+t
+m -3
+t
+m 1
+t
+m 24
+t
+m -24
+t
+q
