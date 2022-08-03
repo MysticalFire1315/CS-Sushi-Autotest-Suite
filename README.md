@@ -27,4 +27,5 @@ If you have suggestions for more test cases, feel free to add them in a reply to
 
 ## Changelog
 ### 3 August 2022
-Created repo and added initial test cases.
+- Added test case for attempting to order a dish for an invalid customer
+- Created repo and added initial test cases.
