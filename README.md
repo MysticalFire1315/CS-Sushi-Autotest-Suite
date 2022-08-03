@@ -23,6 +23,7 @@ I've set it to use `dcc` to compile the program (for leak-check purposes), so it
 ## Notes
 *Working directory is the directory with your file. In this case, its the directory where your `cs_sushi.c` file is located.
 
+If you have suggestions for more test cases, feel free to add them in a reply to [my Ed post](https://edstem.org/au/courses/8666/discussion/952256). I'll maintain this repo until Term 3 starts.
 
 ## Changelog
 ### 3 August 2022
