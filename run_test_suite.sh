@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Credits to Shrey's post for the general outline
+
 # Declare the file paths
 MY_FILE_PATH='./cs_sushi'
 SOLUTION_PATH='1511 cs_sushi'
@@ -30,13 +32,9 @@ for test_file in ./tests/*; do
         let num_passed++
     else
         echo -e "Test $test_file ($MY_FILE_PATH) -$red failed$reset"
-        # Show program output
-        echo "Your output was:"
-        echo -e "$red$my_output$reset"
-        # Show reference output
-        echo
-        echo "The reference output was:"
-        echo -e "$green$reference_output$reset"
+        # Show test input
+        echo "The inputs for this test were:"
+        echo -e "$red$test_file$reset"
         let num_failed++
     fi
 
