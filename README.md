@@ -3,7 +3,7 @@ Autotest suite for `CS Sushi` (COMP1511 22T2 Assignment 2)
 
 
 ## About
-Hey all! I've decided to publish this repository containing a set of autotest suites specifically for the `CS Sushi` assignment.
+Hey all! I've decided to publish this repository containing a set of autotest suites I created specifically for the `CS Sushi` assignment.
 
 
 ## How to use
