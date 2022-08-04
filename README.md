@@ -26,6 +26,8 @@ I've set it to use `dcc` to compile the program (for leak-check purposes), so it
 If you have suggestions for more test cases, feel free to add them in a reply to [my Ed post](https://edstem.org/au/courses/8666/discussion/952256). I'll maintain this repo until Term 3 starts.
 
 ## Changelog
+### 4 August 2022
+- Added test case for billing customer with more than 1 order
 ### 3 August 2022
 - Added test case for attempting to order a dish for an invalid customer
 - Created repo and added initial test cases.
