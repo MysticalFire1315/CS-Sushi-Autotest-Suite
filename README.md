@@ -1,6 +1,8 @@
 # CS-Sushi-Autotest-Suite
 Autotest suite for `CS Sushi` (COMP1511 22T2 Assignment 2)
 
+| :warning: WARNING: This repo is no longer maintained. |
+|:------------------------------------------------------|
 
 ## About
 Hi all! I've decided to publish this repository containing a set of autotest suites I created specifically for the `CS Sushi` assignment.
@@ -23,9 +25,11 @@ I've set it to use `dcc` to compile the program (for leak-check purposes), so it
 ## Notes
 *Working directory is the directory with your file. In this case, its the directory where your `cs_sushi.c` file is located.
 
-If you have suggestions for more test cases, feel free to add them in a reply to [my Ed post](https://edstem.org/au/courses/8666/discussion/952256). I'll maintain this repo until Term 3 starts.
+If you have suggestions for more test cases, feel free to add them in a reply to [my Ed post](https://edstem.org/au/courses/8666/discussion/952256).
 
 ## Changelog
+### 6 August 2022
+- Repository archived.
 ### 4 August 2022
 - Added test case for billing customer with more than 1 order
 ### 3 August 2022
